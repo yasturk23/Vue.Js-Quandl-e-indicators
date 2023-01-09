@@ -1,24 +1,12 @@
-# e-indicators
+Nasdaq Quandl API Key = PTViNcYniHvYxkpQ8YoS
 
-## Project setup
-```
-npm install
-```
+This is just a simple Vue project to practice fetching economic data from Quandl and displaying it in a line chart.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Not the best project and really disappointed to find out that the datas I wanted were outdated. Maybe it is because I am using a free account.
+I have only put in a couple of leading economic indicators for now.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Also I was disappointed to find out that if I wanted to fetch FRED data from the FRED website, I would be blocked due to a CORS policy.
 
-### Lints and fixes files
-```
-npm run lint
-```
+I will try to find another data provider or try to build a web scraper in the future.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+\*Not the best or most esthetic or cleanly written code but for the purpose of learning, it was a fun project.
